@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YETTİPOL HASTANESİ | Giriş Yap</title>
+    <link rel="icon" type="image/x-icon" href="img/logo.jpg">
+    <link rel="stylesheet" href="styleonline.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <header>
+            <div class="baslikIsim">
+                <img src="img/logo.jpg" alt="logo">
+                <h2>YETTİPOL ONLINE</h2>
+            </div>
+        </header>
+
+        <div class="girisvekayit">
+
+            <section class="girisyapsayfasi">
+                <div class="girisbaslik"> Giriş Yap</div>
+
+                <form id="girisform" method="POST" action="girisyap.php">
+                    <label for="tcno">TC Kimlik No:</label>
+                    <input type="text" id="tcno" name="tcno" maxlength="11" pattern="\d{11}" required>
+
+                    <label for="sifre">Şifre:</label>
+                    <input type="password" id="sifre" name="sifre" required>
+
+                    <button type="submit" id="submitSignIn">Giriş Yap</button>
+                </form>
+
+                <div class="girisyapformalt">
+                    <p>Hesabınız yok mu? <a href="kayit.html">Kayıt Olun</a></p>
+                    <p><a href="sifredegis.php">Şifremi Unuttum</a></p>
+                    <p><a href="girissizrandevu.php" style="color: white;">Giriş Yapmadan Devam Et</a></p>
+                </div>
+            </section>
+        </div>
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,1251 @@
+*
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #2c3e50;
+}
+
+.container
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+/* HEADER */
+
+.fixedicin
+{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+
+.ustCizgi
+{
+    background-color: #febe04;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header
+{
+    
+    height: 10vh;
+    width: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.baslikIsim
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    width: 25%;
+    box-sizing: border-box;
+    padding-left: 20px;
+}
+
+.baslikIsim img
+{
+    height: 9vh;
+}
+
+.baslikIsim h2{
+    color: rgb(22, 22, 105);
+}
+
+.menu
+{
+    width: 50%;
+}
+
+.menu ul
+{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    color: rgb(22, 22, 105);
+    font-weight: bold;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(22, 22, 105);
+}
+
+.acilirMenu
+{
+    position: relative;
+    display: inline-block;
+}
+  
+.acilirIcerik
+{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 0 10px;
+    z-index: 1;
+}
+  
+.acilirMenu:hover .acilirIcerik
+{
+    display: block;
+}
+
+.acilirListe
+{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding: 5px;
+}
+
+.menu1
+{
+    color: gray;
+    font-size: 13px;
+}
+
+.menu2
+{
+    font-size: 15px;
+    margin: 0;
+}
+
+.menuButonlar
+{
+    width: 25%;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: right;
+    box-sizing: border-box;
+    padding-right: 20px;
+}
+
+.menuButonlar button
+{
+    width: 200px;
+    height: 40px;
+    border: 2px solid #1a252f;
+    border-radius: 20px;
+    background-color: #2c3e50;
+    color: white;
+    font-weight: bold;
+}
+
+.menuButonlar button a
+{
+    text-decoration: none;
+    color: white;
+
+}
+
+/* HASTANE ÖZEL SAYFALARI İÇERİK */
+
+.altcontainer
+{
+    display: flex;
+    flex-direction: row;
+    height: 85vh;
+    width: 100%;
+    background-color: #2c3e50;
+    margin-top: 15vh;
+}
+
+.alticerik
+{
+    width: 50%;
+}
+
+.hastanefotograf
+{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.hastanefotograf img
+{
+    height: 85vh;
+    margin: 0;
+}
+
+.hastaneyol
+{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 40px;
+}
+
+.hastaneyol a
+{
+    text-decoration: none;
+    color: white;
+}
+
+.hastaneyol p
+{
+    color: white;
+}
+
+.hastaneisim
+{
+    width: 100%;
+    height: 35%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    box-sizing: border-box;
+    padding-left: 40px;
+    font-size: 70px;
+    margin: 0;
+    color: white;
+}
+
+.hastaneaciklama
+{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding-left: 40px;
+    font-size: 20px;
+    color: white;
+}
+
+.hastanesayfasibutonlar
+{
+    width: 100%;
+    height: 18%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    padding-left: 40px;
+    gap: 20px;
+}
+
+.hastanesayfasibutonlar button
+{
+    width: 150px;
+    height: 80px;
+    border: 2px solid #febe04;
+    border-radius: 20px;
+    background-color: white;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+.cizgi{
+    height: 2%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.cizgi hr
+{
+    width: 100%;
+    height: 1px;
+    background-color: #febe04;
+}
+
+.hastanebilgisayfasi
+{
+    width: 100%;
+    height: 85vh;
+    background-color: #2c3e50;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.hastanebilgisayfasi h1
+{
+    width: 100%;
+    height: 5%;
+    color: white;
+    font-size: 30px;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+
+.mevcutbolumler {
+    box-sizing: border-box;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.mevcutbolumlerkart {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #febe04;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    font-size: 15px;
+    color: rgb(22, 22, 105);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.mevcutbolumlerkart2 {
+    width: 110px;
+    height: 110px;
+    border: 1px solid #febe04;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    font-size: 15px;
+    color: rgb(22, 22, 105);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+.mevcutbolumlerkart:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+/* SLAYTLAR */
+
+.slaytbolgesi
+{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.slaytbolgesi-foto
+{
+    width: 100%;
+    height: 32%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.slaytcontainer {
+    width: 80%;
+    height: 100%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.slaytwrapper
+{
+    width: 80%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slayt{
+    width: 100%;
+    height: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 5%;
+}
+
+.slaytkart
+{
+    width: 25%;
+    height: 100%;
+    border: 2px solid white;
+    border-radius: 30px;
+    box-sizing: border-box;
+    background-color: #febe04;
+    display: flex;
+    flex-direction: column;
+}
+
+.slaytkart img
+{
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 30px;
+}
+
+.slaytyazi
+{
+    height: 80px;
+    width: 90%;
+    margin: 0;
+    font-size: 15px;
+    color: rgb(22, 22, 105);
+    box-sizing: border-box;
+    padding-left: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.slaytyazi b
+{
+    font-size: 18px;
+}
+
+.slaytyazi p
+{
+    margin: 0;
+    padding: 0;
+}
+
+.slaytyazi hr
+{
+    margin: 0;
+    padding: 0;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.slaytok{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.slaytonceki, .slaytsonraki
+{
+    background: rgba(255,255,255,0.7);
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 30%;
+    box-sizing: border-box;
+}
+
+.slaytonceki:hover, .slaytsonraki:hover {
+    background: rgba(255,255,255,1);
+}
+
+/* HASTANELERİN ÖZEL SAYFALARINDAKİ KONUM VE İLETİŞİM KISMI */
+
+.hastanegalerivekonum
+{
+    width: 100%;
+    height: 130vh;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    background-color: #2c3e50;
+}
+
+.hastanegalerivekonum h1
+{
+    width: 100%;
+    height: 5%;
+    color: white;
+    font-size: 30px;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+
+.hastaneadresi{
+    width: 100%;
+    height: 58%;
+    display: flex;
+    flex-direction: row;
+}
+
+.iletisimbilgileri
+{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.haritakarti
+{
+    height: 100%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.iletisimbilgileri h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.iletisim-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.iletisim-kart {
+    background: white;
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.iletisim-kart:hover {
+    transform: translateY(-5px);
+}
+
+.iletisim-kart h3 {
+    color: #febe04;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.iletisim-kart p {
+    font-size: 16px;
+    color: #333;
+}
+
+.iletisim-kart a {
+    text-decoration: none;
+    color: #0066cc;
+    font-weight: bold;
+}
+
+.iletisim-kart a:hover {
+    text-decoration: underline;
+}
+
+.haritakarti h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.harita-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.harita-container iframe {
+    width: 90%;
+    max-width: 800px;
+    height: 300px;
+    border-radius: 10px;
+    border: 2px solid #febe04;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* FOOTER */
+
+.footer {
+    background-color: #febe04;
+    color: rgb(22, 22, 105);
+    padding-top: 40px;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-section {
+    width: 25%;
+}
+
+.footer-section h3 {
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+    text-align: start;
+    margin-left: 100px;
+    box-sizing: border-box;
+}
+
+.footer-section ul li {
+    margin: 5px 0;
+}
+
+.footer-section ul li a {
+    text-decoration: none;
+    color: rgb(22, 22, 105);
+    transition: color 0.3s;
+}
+
+.footer-section ul li a:hover {
+    color: white;
+}
+
+.social-icons {
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 5px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s;
+}
+
+.social-icons a:hover img {
+    transform: scale(1.1);
+}
+
+.social-icons i {
+    font-size: 24px;
+    color: rgb(22, 22, 105);
+    transition: color 0.3s, transform 0.3s;
+}
+
+.social-icons a:hover i {
+    color: #febe04;
+    transform: scale(1.2);
+}
+
+.footer-section img {
+    width: 100%;
+    height: auto;
+    max-width: 120px;
+}
+
+.footer-bottom {
+    margin: 0;
+    padding: 5px 0;
+    background-color: rgba(22, 22, 105, 0.1);
+}
+
+.footer-section p{
+    text-align:left;
+}
+
+/* HASTANELERİMİZ SAYFASI İÇERİK */
+
+.hastanelerimizsayfasi
+{
+    margin-top: 15vh;
+    width: 100%;
+    height: 85vh;
+    background-color: #2c3e50;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding-top: 20px;
+}
+
+.hastanelerimizbaslik
+{
+    width: 100%;
+    height: 20%;
+}
+
+.hastanelerimizbaslik h1
+{
+    width: 100%;
+    height: 5%;
+    color: white;
+    font-size: 30px;
+    padding-left: 40px;
+    box-sizing: border-box;
+}
+
+.hastanelerimizkartlar
+{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: row;
+    gap: 7%;
+    justify-content: center;
+}
+
+.hastanelerimizkart
+{
+    width: 24%;
+    height: 90%;
+    border: 2px solid #febe04;
+    border-radius: 30px;
+    background-color: #f9f9f9;
+}
+
+
+.hastanelerimizkart img
+{
+    width: 100%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.hastanekartalt
+{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.hastanekartalt h2
+{
+    height: 100%;
+    width: 70%;
+    font-size: 20px;
+    margin: 0;
+    box-sizing: border-box;
+    padding-left: 10px;
+    color: rgb(22, 22, 105);
+}
+
+.hastanekartalt button
+{
+    width: 100px;
+    height: 30px;
+    background-color: #febe04;
+    border: 1px solid #2c3e50;
+    border-radius: 20px;
+}
+
+/* DOKTORLARIMIZ SAYFASI İÇERİĞİ */
+
+.doktorlarimizsayfasibaslik
+{
+    margin-top: 15vh;
+    height: 20vh;
+    box-sizing: border-box;
+    padding-top: 20px;
+    background-color: #2c3e50;
+    display: flex;
+    flex-direction: column;
+}
+
+.doktorlarimizsayfasibaslik h1
+{
+    color: white;
+    text-align: center;
+}
+
+.bashekimler, .doktorlar {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.bashekim-kart, .doktor-kart {
+    width: 250px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    text-align: center;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    z-index: 5;
+}
+
+.bashekim-kart:hover, .doktor-kart:hover {
+    transform: translateY(-5px);
+    z-index: 10;
+}
+
+.bashekim-kart img, .doktor-kart img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.doktor-bilgi {
+    margin-top: 10px;
+    font-size: 16px;
+    color: rgb(22, 22, 105);
+}
+
+.doktor-bilgi hr {
+    width: 50%;
+    margin: 5px auto;
+    border: none;
+    height: 2px;
+    background-color: #febe04;
+}
+
+.hastane-adi {
+    font-size: 14px;
+    color: gray;
+}
+
+/* İLETİŞİM SAYFASI İÇERİĞİ */
+
+.iletisimsayfasicontainer
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.iletisimhastanebaslik
+{
+    color: white;
+}
+
+.iletisimhastaneicerik
+{
+    margin-bottom: 40px;
+}
+
+/* HAKKIMIZDA SAYFASI İÇERİĞİ */
+
+.hakkimizdasayfasi
+{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hakkimizdasayfasi p
+{
+    width: 80%;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.hakkimizdasayfasi h2
+{
+    color: white;
+}
+
+.hakkimizdalogo {
+    width: 200px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.hakkimizdalogo img {
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    border: 2px solid #febe04;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3); /* Hafif gölge */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Geçiş efekti */
+}
+
+.hakkimizdalogo img:hover {
+    transform: scale(1.05); /* Hafif büyütme efekti */
+    box-shadow: 6px 6px 15px rgba(0, 0, 0, 0.5); /* Daha belirgin gölge */
+}
+
+/* BİRİM SAYFALARI */
+
+.bolum-header {
+    background: url('img/pediatri-bg.jpg') no-repeat center center/cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    position: relative;
+    margin-top: 15vh;
+}
+
+.header-overlay {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.bolum-bilgi, .bolum-hizmetler, .bolum-hastaneler, .hasta-yorumlar, .bolum-blog, .bolum-randevu {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+.bolum-doktorlar h2, .bolum-bilgi h2, .bolum-hizmetler h2, .bolum-hastaneler h2, .hasta-yorumlar h2, .bolum-blog h2, .bolum-randevu h2 {
+    text-align: center;
+    color: white;
+}
+
+.bolum-bilgi p {
+    color: white;
+}
+
+.hizmetler, .hastaneler, .yorum-slider, .blog-kartlar {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.hastanelersinifi {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.hizmet-kart, .hastane-kart, .yorum, .blog-kart {
+    width: 250px;
+    background: #f9f9f9;
+    border-radius: 10px;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+}
+
+.hizmet-kart:hover, .hastane-kart:hover, .blog-kart:hover {
+    transform: scale(1.05);
+}
+
+.randevu-btn {
+    display: inline-block;
+    padding: 12px 25px;
+    background: #febe04;
+    color: rgb(22, 22, 105);
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.3s;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.randevu-btn:hover {
+    background: rgb(22, 22, 105);
+    color: white;
+}
+
+/* Pediatri hastaneleri kısmı */
+.bolum-hastaneler {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bolum-hastaneler h2 {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.hastaneler {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap; /* Responsive tasarım için */
+    max-width: 900px;
+    margin: auto;
+}
+
+.hastane-kart {
+    width: 48%; /* Yani her kartın genişliği %48 olacak */
+    background: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+}
+
+.hastane-kart h3 {
+    font-size: 20px;
+    color: rgb(22, 22, 105);
+}
+
+.hastane-kart p {
+    font-size: 16px;
+    color: rgb(100, 100, 100);
+    margin-bottom: 20px;
+}
+
+.hastane-kart a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #febe04;
+    color: rgb(22, 22, 105);
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.hastane-kart a:hover {
+    background-color: rgb(22, 22, 105);
+    color: white;
+}
+
+/* tıbbi birimler sayfası */
+
+.bolum-birimler {
+    padding: 50px;
+    text-align: center;
+}
+
+.birimler {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.birim-kart {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+.birim-kart:hover {
+    transform: translateY(-10px);
+}
+
+.birim-kart h3 {
+    margin: 20px 0;
+    font-size: 24px;
+}
+
+.btn {
+    background-color: #febe04;
+    color: rgb(22, 22, 105);
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid #2c3e50;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+
+
+/* AANSAYFA */
+
+.anasayfabanner{
+    width: 100%;
+    height: 85vh;
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5), /* Arka planın saydamlık oranı */
+        rgba(0, 0, 0, 0.5) /* Aynı şekilde alt kısımdaki renk */
+      ),
+      url(img/banner.png);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+}
+
+.anasayfabanner h1{
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.anasayfabanner h3{
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.anasayfabutonlar{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 50px;
+    
+}
+
+.anasayfabutonlar button{
+    width: 150px;
+    height: 40px;
+    border: 2px solid #2c3e50;
+    border-radius: 20px;
+    background-color: #febe04;
+    color: white;
+    font-weight: bold;
+}
+
+.anasayfabutonlar button a{
+    text-decoration: none;
+    color: #2c3e50;
+}
+
+
+
+
+.anasayfabaslik{
+    text-align: center;
+}
+
+.solcontainer
+{
+    width: 25%;
+    height: inherit;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ortacontainer
+{
+    width: 50%;
+    height: inherit;
+}
+
+.sagcontainer
+{
+    width: 25%;
+    height: inherit;
+}
+
+.giris
+{
+    width: 90%;
+    height: 400px;
+    background-color: whitesmoke;
+    margin-top: 50px;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+.price-link {
+    text-decoration: none;
+}
+
+.price-link:hover {
+    text-decoration: underline;
+}
+
+/* Modal Stili */
+.modal {
+    display: none; /* Başlangıçta gizli */
+    position: fixed; /* Sayfanın üzerinde konumlandır */
+    z-index: 1; /* Üstte olsun */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0); /* Yarı saydam siyah arka plan */
+    background-color: rgba(0, 0, 0, 0.4); /* Saydamlık */
+    padding-top: 60px; /* Üstten boşluk */
+}
+
+/* Modal İçeriği */
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto; /* Ortaya hizalayalım */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%; /* Modalin genişliği */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.modalicerik{
+    display: flex;
+    flex-direction: row;
+}
+
+.modalsol, .modalsag{
+    width: 50%;
+}
+
+.modal-content h2{
+    text-align: center;
+    color: #2c3e50;
+}
+
+/* Kapatma Butonu */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}

@@ -1,0 +1,443 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\sonucekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\sonucekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\sonucekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\sonucekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilsonuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\tahlilsonuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\tahlilekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\bugununrandevulari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\bugununrandevulari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\profilsayfam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\profilsayfam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\tahlilekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahliller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\tahliller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\profilsayfam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\profilsayfam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahliller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\tahliller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastaliklarimilaclarim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\hastaliklarimilaclarim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\receteekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\receteekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastalikekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\hastalikekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastalikekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\hastalikekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\receteekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\receteekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastaliklarimilaclarim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\hastaliklarimilaclarim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|c:\\users\\dell\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\girisicerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\girisicerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\girisicerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A856DB48-C54F-4B0E-89E9-6953F4F683ED}|hastaneRandevuSistemi\\hastaneRandevuSistemi.csproj|solutionrelative:hastanerandevusistemi\\girisicerik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 561,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 345,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form3.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\Form3.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form3.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\Form3.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAIwB0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:25:05.896Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form4.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\Form4.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form4.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\Form4.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAWwMQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T20:15:51.252Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sonucEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\sonucEkle.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\sonucEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\sonucEkle.cs [Design]*",
+              "RelativeToolTip": "hastanerandevusistemi\\sonucEkle.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:41:23.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sonucEkle.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\sonucEkle.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\sonucEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\sonucEkle.cs*",
+              "RelativeToolTip": "hastanerandevusistemi\\sonucEkle.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:49:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tahlilSonuc.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilSonuc.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\tahlilSonuc.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilSonuc.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\tahlilSonuc.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T05:26:06.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "tahlilEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilEkle.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\tahlilEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\tahlilEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:57:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form4.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\Form4.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:56:13.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tahlilEkle.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilEkle.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\tahlilEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahlilEkle.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\tahlilEkle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:55:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tahliller.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahliller.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\tahliller.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahliller.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\tahliller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:57:44.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tahliller.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahliller.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\tahliller.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\tahliller.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\tahliller.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:53:29.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bugununRandevulari.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\bugununRandevulari.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\bugununRandevulari.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\bugununRandevulari.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\bugununRandevulari.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:19:28.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form3.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\Form3.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T16:54:39.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "receteEkle.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\receteEkle.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\receteEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\receteEkle.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\receteEkle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwE4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:17:11.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "hastalikEkle.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastalikEkle.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\hastalikEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastalikEkle.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\hastalikEkle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA1wBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:03:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "hastalikEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastalikEkle.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\hastalikEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastalikEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\hastalikEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:56:48.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "receteEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\receteEkle.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\receteEkle.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\receteEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\receteEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T07:57:24.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "hastaliklarimilaclarim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastaliklarimilaclarim.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\hastaliklarimilaclarim.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastaliklarimilaclarim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\hastaliklarimilaclarim.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T10:21:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:18:10.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "profilSayfam.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\profilSayfam.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\profilSayfam.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\profilSayfam.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\profilSayfam.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:51:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "profilSayfam.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\profilSayfam.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\profilSayfam.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\profilSayfam.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\profilSayfam.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:45:15.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form2.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\Form2.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T18:42:16.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "hastaliklarimilaclarim.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastaliklarimilaclarim.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\hastaliklarimilaclarim.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\hastaliklarimilaclarim.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\hastaliklarimilaclarim.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAawAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T02:29:03.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "girisIcerik.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\girisIcerik.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\girisIcerik.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\girisIcerik.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\girisIcerik.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAMwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:38:30.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form1.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form1.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\Form1.cs",
+              "ViewState": "AgIAAGABAAAAAAAAAAAAAGEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:04:59.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form2.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\Form2.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\Form2.cs",
+              "RelativeToolTip": "hastanerandevusistemi\\Form2.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T11:57:04.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "girisIcerik.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\girisIcerik.cs",
+              "RelativeDocumentMoniker": "hastanerandevusistemi\\girisIcerik.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\hastanerandevusistemi\\hastanerandevusistemi\\girisIcerik.cs [Tasar\u0131m]",
+              "RelativeToolTip": "hastanerandevusistemi\\girisIcerik.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:10:19.528Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Hastaneler Listesi</title>
+</head>
+<body>
+    <h1>Hastaneler</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Hastane Adı</th>
+                <th>Adres</th>
+                <th>Telefon</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for hospital in hospitals %}
+            <tr>
+                <td>{{ hospital['hastane_isim'] }}</td>
+                <td>{{ hospital['hastane_sehir'] }}</td>
+                <td>{{ hospital['hastane_telefon'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

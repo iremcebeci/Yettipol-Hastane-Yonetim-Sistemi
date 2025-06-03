@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="bolumOneri.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="bot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="bugununRandevulari.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="dahiliyeDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="dokgecmisrandevular.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="dokGelecekrandevular.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="estetikDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="genelCerrahiDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="girisIcerik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="girisSolPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="hastalikEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hastaliklarimilaclarim.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="kadınHastDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="kardiyolojiDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="KBBDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="nefrolojiDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="norolojiDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ortopediDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pediatriDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pnlicerik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="pnlleft.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="profilSayfam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="psikiyatriDoktorlar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="randevugoruntule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="randevuOnay.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="randevuSec.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="receteEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sonucEkle.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="tahlilEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tahliller.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="tahlilSonuc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="uyeOl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
