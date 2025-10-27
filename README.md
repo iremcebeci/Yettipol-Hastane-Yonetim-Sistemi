@@ -6,12 +6,11 @@
 ---
 
 ## Proje Hakkında
-Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimini kolaylaştıran, ayrıca **sağlık grubuna ait hastaneler, tıbbi birimler, doktorlar ve iletişim bilgilerinin yer aldığı dinamik tanıtım ögeleri içeren** kapsamlı bir **web ve masaüstü tabanlı hastane yönetim sistemi**.
+Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimini kolaylaştıran, ayrıca sağlık grubuna ait hastaneler, tıbbi birimler, doktorlar ve iletişim bilgilerinin yer aldığı dinamik tanıtım ögeleri içeren kapsamlı bir web ve masaüstü tabanlı hastane yönetim sistemi.
 
-**Görsel Önerisi:** Buraya web uygulamasının ana ekranı veya dashboard’unun ekran görüntüsünü ekleyebilirsin.
-```markdown
-![Açıklama](ReadmeFoto/ana_ekran.png)
-```
+<p float="left">
+  <img src="ReadmeFoto/ana_ekran.png" width="500" />
+</p>
 
 ---
 
@@ -23,7 +22,10 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 - Uygun tarih ve saat ile randevu alma (fiziksel ve görüntülü görüşme)  
 - “Nereden randevu almalıyım?” ile belirtilere göre yönlendirme
 
-**Görsel Önerisi:** Hasta randevu ekranı veya formu.
+<p float="left">
+  <img src="ReadmeFoto/girisyap.png" width="500" />
+  <img src="ReadmeFoto/randevu_ekrani.png" width="500" />
+</p>
 
 ### Doktor Deneyimi
 - Hastanın geçmiş, bugünkü ve gelecek randevularını görüntüleme  
@@ -31,36 +33,49 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 - İlaç, hastalık ve tahlil girişi yapabilme
 
 <p float="left">
-  <img src="ReadmeFoto/doktor_paneli.png" width="200" />
-  <img src="ReadmeFoto/doktor_hastalik.png" width="200" />
-  <img src="ReadmeFoto/doktor_recete.png" width="200" />
-  <img src="ReadmeFoto/tahlil_girisi.png" width="200" />
+  <img src="ReadmeFoto/doktor_paneli.png" width="500" />
+  <img src="ReadmeFoto/doktor_hastalik.png" width="500" />
+  <img src="ReadmeFoto/doktor_recete.png" width="500" />
+  <img src="ReadmeFoto/tahlil_girisi.png" width="500" />
 </p>
 
 ### Tahlil Yönetimi
 - Teknisyenler tahlil sonuçlarını girer  
 - PDF olarak doktor ve hastaya sunulur
 
-**Görsel Önerisi:** Tahlil PDF çıktısı veya tahlil giriş formu.
+<p float="left">
+  <img src="ReadmeFoto/teknisyen_paneli.png" width="500" />
+  <img src="ReadmeFoto/tahlil_sonucu_girisi.png" width="500" />
+  <img src="ReadmeFoto/tahlil_raporu.jpg" width="500" />
+</p>
 
 ### Mesajlaşma & AI Bot
 - Hasta-doktor iletişimi için mesajlaşma bölümü  
 - Belirli sorulara yanıt veren bot desteği
 
-**Görsel Önerisi:** Mesajlaşma arayüzü veya bot ekran görüntüsü.
+<p float="left">
+  <img src="ReadmeFoto/chatbot.png" width="500" />
+</p>
 
 ### Tanıtım & Bilgi
 - Sağlık grubuna ait hastaneler, tıbbi birimler, doktorlar ve iletişim bilgilerinin yer aldığı dinamik tanıtım sitesi işlevi
 
-**Görsel Önerisi:** Tanıtım sitesi ana sayfa veya hastane/birim listesi ekran görüntüsü.
+<p float="left">
+  <img src="ReadmeFoto/tanıtım_anasayfa.png" width="500" />
+  <img src="ReadmeFoto/tanıtım_hastaneler.png" width="500" />
+  <img src="ReadmeFoto/tanıtım_blog.png" width="500" />
+  <img src="ReadmeFoto/tanıtım_doktorlar.png" width="500" />
+</p>
 
 ---
 
 ## Ekip ve Platform Çeşitliliği
-- Proje **2 kişilik bir ekip** ile yürütüldü; görev dağılımları yapıldı.  
-- Web uygulamasındaki tüm özellikler **web platformunda** geliştirilirken, ekip arkadaşımın liderliğinde bu özellikleri kapsayan **C# Windows Forms masaüstü uygulaması** da paralel olarak geliştirildi.
+- Proje 2 kişilik bir ekip ile yürütüldü; görev dağılımları yapıldı.  
+- Web uygulamasındaki tüm özellikler web platformunda geliştirilirken, ekip arkadaşımın liderliğinde bu özellikleri kapsayan C# Windows Forms masaüstü uygulaması da paralel olarak geliştirildi.
 
-**Görsel Önerisi:** Ekip çalışması veya Windows Forms uygulamasının ekran görüntüsü.
+<p float="left">
+  <img src="ReadmeFoto/notion.png" width="500" />
+</p>
 
 ---
 
@@ -71,6 +86,8 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 ---
 
 ## Sonuç
-Bu proje sayesinde **hastane randevu, tahlil ve tanıtım süreçleri daha hızlı, düzenli ve kullanıcı dostu** hâle getirildi.
+Bu proje sayesinde hastane randevu, tahlil ve tanıtım süreçleri daha hızlı, düzenli ve kullanıcı dostu hâle getirildi.
 
-**Görsel Önerisi:** Genel proje akış diyagramı veya kısa demo GIF’i.
+<p float="left">
+  <img src="ReadmeFoto/veritabani.png" width="500" />
+</p>
