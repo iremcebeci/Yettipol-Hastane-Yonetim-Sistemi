@@ -209,3 +209,9 @@ select * from kullanicilar;
 select * from randevular;
 select * from tahliller;
 select * from teknisyenler;
+
+ALTER TABLE tahlil_sonuclari ADD COLUMN tahlil_id INT AFTER id;
+ALTER TABLE tahlil_sonuclari ADD FOREIGN KEY (tahlil_id) REFERENCES tahliller(id);
+
+ALTER TABLE goruntuleme_raporlari ADD COLUMN tahlil_id INT AFTER id;
+ALTER TABLE goruntuleme_raporlari ADD FOREIGN KEY (tahlil_id) REFERENCES tahliller(id);

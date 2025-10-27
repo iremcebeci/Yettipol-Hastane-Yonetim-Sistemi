@@ -16,9 +16,9 @@ if ($result->num_rows > 0) {
         $_SESSION['user_id'] = $user['tc_no'];
         $_SESSION['rol'] = $user['rol'];
 
-        if ($user['rol'] === 'Doktor') {
+        if ($user['rol'] === 'doktor') {
             header("Location: doktoranasayfa.php");
-        } else if ($user['rol'] === 'Teknisyen'){
+        } else if ($user['rol'] === 'teknisyen'){
             header("Location: teknisyenanasayfa.php");
         } else {
             header("Location: yettipolonline.php");
