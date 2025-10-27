@@ -10,7 +10,7 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 
 **Görsel Önerisi:** Buraya web uygulamasının ana ekranı veya dashboard’unun ekran görüntüsünü ekleyebilirsin.
 ```markdown
-![Ana Ekran](link-to-your-image)
+![Açıklama](ReadmeFoto/ana_ekran.png)
 ```
 
 ---
@@ -30,7 +30,12 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 - Kişisel ve tıbbi bilgileri takip etme  
 - İlaç, hastalık ve tahlil girişi yapabilme
 
-**Görsel Önerisi:** Doktor paneli ekran görüntüsü veya randevu listesi.
+<p float="left">
+  <img src="ReadmeFoto/doktor_paneli.png" width="200" />
+  <img src="ReadmeFoto/doktor_hastalik.png" width="200" />
+  <img src="ReadmeFoto/doktor_recete.png" width="200" />
+  <img src="ReadmeFoto/tahlil_girisi.png" width="200" />
+</p>
 
 ### Tahlil Yönetimi
 - Teknisyenler tahlil sonuçlarını girer  
