@@ -9,7 +9,7 @@
 Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimini kolaylaştıran, ayrıca sağlık grubuna ait hastaneler, tıbbi birimler, doktorlar ve iletişim bilgilerinin yer aldığı dinamik tanıtım ögeleri içeren kapsamlı bir web ve masaüstü tabanlı hastane yönetim sistemi.
 
 <p float="left">
-  <img src="ReadmeFoto/ana_ekran.png" width="500" />
+  <img src="ReadmeFoto/ana_ekran.png" width="300" />
 </p>
 
 ---
@@ -23,8 +23,8 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 - “Nereden randevu almalıyım?” ile belirtilere göre yönlendirme
 
 <p float="left">
-  <img src="ReadmeFoto/girisyap.png" width="500" />
-  <img src="ReadmeFoto/randevu_ekrani.png" width="500" />
+  <img src="ReadmeFoto/girisyap.png" width="300" />
+  <img src="ReadmeFoto/randevu_ekrani.png" width="300" />
 </p>
 
 ### Doktor Deneyimi
@@ -33,10 +33,10 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 - İlaç, hastalık ve tahlil girişi yapabilme
 
 <p float="left">
-  <img src="ReadmeFoto/doktor_paneli.png" width="500" />
-  <img src="ReadmeFoto/doktor_hastalik.png" width="500" />
-  <img src="ReadmeFoto/doktor_recete.png" width="500" />
-  <img src="ReadmeFoto/tahlil_girisi.png" width="500" />
+  <img src="ReadmeFoto/doktor_paneli.png" width="300" />
+  <img src="ReadmeFoto/doktor_hastalik.png" width="300" />
+  <img src="ReadmeFoto/doktor_recete.png" width="300" />
+  <img src="ReadmeFoto/tahlil_girisi.png" width="300" />
 </p>
 
 ### Tahlil Yönetimi
@@ -44,9 +44,9 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 - PDF olarak doktor ve hastaya sunulur
 
 <p float="left">
-  <img src="ReadmeFoto/teknisyen_paneli.png" width="500" />
-  <img src="ReadmeFoto/tahlil_sonucu_girisi.png" width="500" />
-  <img src="ReadmeFoto/tahlil_raporu.jpg" width="500" />
+  <img src="ReadmeFoto/teknisyen_paneli.png" width="300" />
+  <img src="ReadmeFoto/tahlil_sonucu_girisi.png" width="300" />
+  <img src="ReadmeFoto/tahlil_raporu.jpg" width="300" />
 </p>
 
 ### Mesajlaşma & AI Bot
@@ -54,17 +54,17 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 - Belirli sorulara yanıt veren bot desteği
 
 <p float="left">
-  <img src="ReadmeFoto/chatbot.png" width="500" />
+  <img src="ReadmeFoto/chatbot.png" width="300" />
 </p>
 
 ### Tanıtım & Bilgi
 - Sağlık grubuna ait hastaneler, tıbbi birimler, doktorlar ve iletişim bilgilerinin yer aldığı dinamik tanıtım sitesi işlevi
 
 <p float="left">
-  <img src="ReadmeFoto/tanıtım_anasayfa.png" width="500" />
-  <img src="ReadmeFoto/tanıtım_hastaneler.png" width="500" />
-  <img src="ReadmeFoto/tanıtım_blog.png" width="500" />
-  <img src="ReadmeFoto/tanıtım_doktorlar.png" width="500" />
+  <img src="ReadmeFoto/tanıtım_anasayfa.png" width="300" />
+  <img src="ReadmeFoto/tanıtım_hastaneler.png" width="300" />
+  <img src="ReadmeFoto/tanıtım_blog.png" width="300" />
+  <img src="ReadmeFoto/tanıtım_doktorlar.png" width="300" />
 </p>
 
 ---
@@ -74,14 +74,14 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 - Web uygulamasındaki tüm özellikler web platformunda geliştirilirken, ekip arkadaşımın liderliğinde bu özellikleri kapsayan C# Windows Forms masaüstü uygulaması da paralel olarak geliştirildi.
 
 <p float="left">
-  <img src="ReadmeFoto/notion.png" width="500" />
+  <img src="ReadmeFoto/notion.png" width="300" />
 </p>
 
 ---
 
 ## Teknolojiler
 - **Web:** HTML, CSS, JavaScript, PHP, MySQL  
-- **Masaüstü:** C# Windows Forms
+- **Masaüstü:** C# Windows Forms, MySQL
 
 ---
 
@@ -89,5 +89,5 @@ Hastaların randevu almasını, doktorların hasta takibini ve tahlil yönetimin
 Bu proje sayesinde hastane randevu, tahlil ve tanıtım süreçleri daha hızlı, düzenli ve kullanıcı dostu hâle getirildi.
 
 <p float="left">
-  <img src="ReadmeFoto/veritabani.png" width="500" />
+  <img src="ReadmeFoto/veritabani.png" width="300" />
 </p>
